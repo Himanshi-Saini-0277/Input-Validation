@@ -1,9 +1,11 @@
 # Html Form Input Validation 
 
 **Introduction:**
+
 The HTML Form Input Validation code snippet provides a simple yet effective way to validate user input in a web form using HTML, CSS, and JavaScript. It allows developers to ensure that users enter valid numeric data and provides immediate feedback to users if the input is incorrect.
 
 **Usage**
+
 To utilize this code snippet for form input validation:
 
 Integration: Copy the provided HTML, CSS, and JavaScript code into your HTML document within appropriate sections.
@@ -11,6 +13,7 @@ Customization: Modify the code to suit your specific requirements such as changi
 Testing: Validate the behavior of the form input validation by interacting with the input field and observing the feedback messages.
 
 **HTML Structure**
+
 The HTML structure consists of:
 
 Doctype Declaration: Defines the document type and version of HTML used.
@@ -23,6 +26,7 @@ Input Field: Allows the user to input numeric data.
 Validation Placeholder: An area to display validation messages.
   
 **JavaScript Functionality**
+
 The JavaScript code provides real-time validation of user input:
 
 val(x) Function: This function is triggered when the user types in the input field.
@@ -34,12 +38,15 @@ Checks if the length of the input is greater than 10 digits and displays a messa
 Clears any previous validation messages if the input is valid.
 
 **Customization Options**
+
 Styling: Modify the CSS styles to change the appearance of elements such as font, color, and alignment.
 Validation Rules: Adjust the JavaScript function to implement custom validation rules based on specific requirements.
 Error Messages: Customize the error messages displayed to users to provide clear guidance on input requirements.
 
 **Compatibility**
+
 This code snippet is compatible with modern web browsers that support HTML5, CSS3, and JavaScript, ensuring a consistent user experience across different platforms.
 
 **Conclusion**
+
 The HTML Form Input Validation code snippet offers a straightforward solution for implementing input validation in web forms. By integrating this code into your web projects, you can enhance user experience by providing instant feedback on input correctness, leading to improved data quality and user satisfaction.
