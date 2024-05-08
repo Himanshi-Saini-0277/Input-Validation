@@ -25,7 +25,6 @@ Prompt Text: Instructs the user to enter a number.
 Input Field: Allows the user to input numeric data.
 Validation Placeholder: An area to display validation messages.
 
-  
 **JavaScript Functionality**
 
 The JavaScript code provides real-time validation of user input:
