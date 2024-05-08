@@ -24,6 +24,7 @@ Doctype Declaration: Defines the document type and version of HTML used.
 Prompt Text: Instructs the user to enter a number.
 Input Field: Allows the user to input numeric data.
 Validation Placeholder: An area to display validation messages.
+
   
 **JavaScript Functionality**
 
